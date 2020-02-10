@@ -1,0 +1,174 @@
+.head-nav{
+
+    background-color:black;
+    color: white;margin-left: 200px;
+    margin-right: 190px;
+    
+}
+.header-nav
+ {
+     padding-bottom: 10px;
+    color: white;
+    
+    background-color:#262626;
+    
+ }
+ #heading{
+
+    margin-left: 200px;
+ }
+ .a1{
+     color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+ }
+ body{
+
+  background-color: whitesmoke;
+
+ }
+ .top-body{
+   display: block;   
+     background-color: black;
+    width: 960px;
+    height: 360px;
+    margin-left: 200px;
+    margin-top: 30px;
+    
+ }
+ .text-div{
+     margin-top: 20px;
+     
+     height: 50px;
+     margin-left: 200px;
+     margin-right: 172px;
+     background-color: gray;
+     padding: 10px;
+ }
+ .para1{
+
+    margin-left: 200px;
+ }
+ .hr1{
+     margin-left: 200px;
+     margin-right: 172px;
+ }
+ .image{
+        margin-left: 30px;
+        background-color: black;
+        margin-top: 20px;
+         display: inline-block;
+            width: 215px;
+            height: 315px;    
+
+ }
+ #im{
+     margin-left: 200px;
+ }
+ .fr{
+ margin-left: 200px;
+ margin-right: 172px;
+ background-color: black;
+ color: white;
+  margin-top: 20px;
+
+
+ }
+ .header1{
+    margin-left: 20px;
+   display: inline;
+    color:aquamarine;
+    font-size: 20px;    
+ }
+
+
+.navig{
+    display: inline-block;
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.form1 {
+    border: 2px solid gray;
+    height: 650px;
+    width: 450px;
+    margin-left: 400px;
+    border-radius: 13px;
+}
+
+.form-head{
+    margin-top: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    
+
+font-size:39px;
+color: white;
+    height: 40px;
+background-color: gray;
+
+
+
+}
+.title1{
+    padding-top: 0px;
+    border:1px solid gray;
+    border-radius: 3px;
+    width: 400px;
+    height: 20px;    
+    margin-left: 20px;;
+}
+.lists{
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left:20px;
+        width: 400px;
+        
+        padding-top: 5px;
+        padding-bottom: 5px;
+    background-color: aquamarine;
+        color: white;
+}
+.headings{
+    margin-left: 20px;margin-bottom: 0px;
+}
+.title2{
+    padding-top: 0px;
+    border:1px solid gray;
+    border-radius: 3px;
+    width: 90px;
+    height: 30px;    
+    margin-left: 20px;;
+}
+
+.title3{
+
+    
+    margin-left: 20px;
+color: gray;
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 400px;
+}
+
+.div-end{
+    background-color: gray;
+    height: 60px;
+    margin-top:10px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.button{
+
+position: right;
+margin-top: 15px;
+margin-left: 350px;
+background-color: aquamarine;
+border: 1px solid aquamarine;
+border-radius: 5px;
+width: 60px;
+padding: 10px;}
