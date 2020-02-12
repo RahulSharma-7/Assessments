@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<script>
+
+
+
+
+        var list=[{name:"john",age:23,salary:10000,dob:1992},
+                    {name:"Sam",age:23,salary:20000,dob:1990},  
+                        {name:"mathew",age:22,salary:1212,dob:1991},
+                        {name:"mick",age:20,salary:1112,dob:1990},
+                        {name:"john",age:21,salary:1111,dob:1999},
+                    
+                        {name:"nick",age:24,salary:1000,dob:1999},
+                        {name:"max",age:23,salary:1000,dob:1999},]
+
+        function sal(){
+                        for(i=0;i<7;i++){
+
+
+                            if(list[i].salary>=5000){
+                                window.alert(list[i].name, list[i].salary);
+                            }
+                        }
+  }
+
+
+        function age(){
+
+            for(i=0;i<7;i++){
+                if((list[i].salary<=1000)&&(list[i].age>=20)){
+                        window.alert(list[i].name + list[i].salary);
+                    list[i].salary=list[i].salary*5;
+                    window.alert(list[i].name +  list[i].salary);
+                }
+            }
+        }
+
+
+</script>
+</head>
+<body>
+    
+        <div style="margin:100px"><span><button onclick="sal()">sal >5000</button></span>
+        
+            <span><button onclick="age() ">AGE&SAl</button></span>
+            <span></span>
+        
+        </div>
+
+
+
+
+</body>
+</html>

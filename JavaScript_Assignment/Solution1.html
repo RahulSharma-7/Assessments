@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script>
+
+ function calculate(){
+
+var s=document.getElementById("sum").value;
+var r=document.getElementById("Rate").value;
+var t=document.getElementById("time").value;
+ var result=(s*r*t)/100;
+  alert("The Interest calculated is:   " + result);
+ 
+ 
+ 
+ 
+ }
+
+    
+
+    </script>
+
+
+</head>
+<body>
+    <div class="container" style="align-content: center ; background-color:cadetblue;height: 400px;padding: 100px;margin-top: 50px;">  <p>Simple Interest</p>
+        
+        
+        <span>Sum:<input name="" id="sum"></span><br><br>
+        <span>Rate: <input type="text" name="
+            " id="Rate"></span><br><br>
+        
+        <span>Time:<input type="text" name="" id="time"></span>
+        <br><br>
+        <button class="btn-primary" onclick="calculate()">Calculate</button>
+
+        <br><br>
+        
+        </div>
+</body>
+</html>

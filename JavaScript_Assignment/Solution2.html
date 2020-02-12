@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        
+            function palin(){
+
+
+                    var s=document.getElementById("str").value;
+                    var st=s;
+                    s=s.split("");
+                    s=s.reverse();
+                    s=s.join("");
+
+                    if(st==s){
+                        window.alert("The String "+s+ " is palindrome. ");
+                    }
+                    else{
+                        window.alert("The String is not Palindrome");
+                    }
+
+            }
+
+
+    </script>
+</head>
+<body>
+    
+    <div style="align-content: center ; background-color:cadetblue;height: 400px;padding: 100px;margin-top: 50px;">  
+        
+        <span><strong>Enter the string:-</strong></span>
+        <input type="text" name="" id="str">
+        <br><br>
+        <button onclick="palin()">Is Palindrome</button>
+
+
+    </div>
+</body>
+</html>
