@@ -1,0 +1,83 @@
+.form1 {
+    border: 2px solid gray;
+    height: 740px;
+    width: 450px;
+    margin-left: 400px;
+    border-radius: 13px;
+}
+
+.form-head{
+    margin-top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    
+    background-color: gray;    
+
+font-size:39px;
+    height: 40px;
+
+
+
+
+}
+.title1{
+    padding-top: 0px;
+    border:1px solid gray;
+    border-radius: 3px;
+    width: 400px;
+    height: 20px;    
+    margin-left: 20px;;
+}
+.lists{
+    border:1px solid gray;
+    border-radius: 3px;
+    margin-left:20px;
+        width: 400px;
+        
+        padding-top: 5px;
+        padding-bottom: 5px;
+    background-color: aquamarine;
+        color: white;
+}
+.headings{
+    margin-left: 20px;margin-bottom: 0px;
+}
+.title2{
+    padding-top: 0px;
+    border:1px solid gray;
+    border-radius: 3px;
+    width: 90px;
+    height: 30px;    
+    margin-left: 20px;;
+}
+
+.title3{
+
+    
+    margin-left: 20px;
+color: gray;
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 400px;
+}
+
+.div-end{
+    background-color: gray;
+    height: 50px;
+    margin-top:37px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.button{
+
+position: right;
+margin-top: 15px;
+margin-left: 350px;
+background-color: aquamarine;
+border: 1px solid aquamarine;
+border-radius: 5px;
+width: 60px;
+padding: 5px;}
