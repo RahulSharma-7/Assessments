@@ -1,0 +1,52 @@
+       Answer 1:-
+		Block elements take whole horizontal space.They start from the new line.
+		Inline elements take the space that is sufficient fro them to exit.
+
+	Answer 2:-
+		Display:none will not put the elemnet on the page at  all.
+		Visibility Hidden will  provide the space for  the element on the page but will not show it.
+
+	Answer 3:-Float is used to  place the elements using float on a layer above the existing layer.
+
+		Clear is  used to align the element that is being overlayered by the float property. 
+
+
+
+	Answer 4:-
+		Static:- if the position of an element is static than it will not change it will  align to the
+		 flow of the page.
+		
+		Relative: Relative position is used to place the element relative to the other elements.
+
+		Fixed: the position is fixed and will not change if we scroll the page.
+		absolute: in this the element takes thee position relative to its parent element.
+
+
+		
+
+	Answer 6:-<Meta> tag in html provides metadata of the page.
+		it is not included and displayed on the page but it contains
+		info about authors ,keywords etc.
+
+	Answer 7:-All html elements can be considered as a box which contains and have properties
+			like padding ,border,margin and content.
+
+	Answer 8:-different types of CSS Selectors are:-
+			i)CSS Selector
+			ii)Css id
+			iii)CSS Class
+			iv) CSS universal selector
+			v) CSS group selector.
+
+
+	Answer 9:-
+		DOCTYPE defines the type of the html  and its version and model.
+
+		for example before html5 html used xml model while HTML 5 uses Doc Model.
+
+
+ Answer 10:-
+		Elements such as <header> <footer> <article> are semantic tags
+		they are defined for particular purpose.
+
+ 
