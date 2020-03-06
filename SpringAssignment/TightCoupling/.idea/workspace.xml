@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02af97c6-661b-41d2-96a4-4ee6766e0112" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment 1/.idea/Java_Assignment 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Assignment2/Java_Assignment2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment 1/src/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment 1/src/Solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Assignment2/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Assignment2/Solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol1DoubleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol1DoubleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol2UniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol2UniqueChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol3NoOfOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol3NoOfOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol4SortHashMapByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol4SortHashMapByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol5SortingEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol5SortingEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_Collections/Sol6StudenttObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_Collections/Sol6StudenttObj.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YiI5GKTFOEffGe9JxvUMnK8BZL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springassignment.DemoApplication" />
+      <module name="springassignment.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springassignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02af97c6-661b-41d2-96a4-4ee6766e0112" name="Default Changelist" comment="" />
+      <created>1583418802957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583418802957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583419238542">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1583419238542" />
+    <state x="415" y="184" width="525" height="433" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583419233281">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="415" y="184" width="525" height="433" key="#com.intellij.ide.util.TreeClassChooserDialog/0.30.1366.738@0.30.1366.738" timestamp="1583419233281" />
+    <state width="1318" height="172" key="GridCell.Tab.0.bottom" timestamp="1583422500080">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1318" height="172" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1583422500080" />
+    <state width="1318" height="172" key="GridCell.Tab.0.center" timestamp="1583422500080">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1318" height="172" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1583422500080" />
+    <state width="1318" height="172" key="GridCell.Tab.0.left" timestamp="1583422500079">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1318" height="172" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1583422500079" />
+    <state width="1318" height="172" key="GridCell.Tab.0.right" timestamp="1583422500080">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1318" height="172" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1583422500080" />
+    <state x="172" y="34" width="1022" height="733" key="SettingsEditor" timestamp="1583422459238">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="172" y="34" width="1022" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1583422459238" />
+    <state x="343" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1583418808690">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="343" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1583418808690" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583418933852">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1583418933852" />
+  </component>
+</project>
